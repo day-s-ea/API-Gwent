@@ -1,0 +1,3462 @@
+[
+  {
+    "data": {
+      "id": 0,
+      "name": "Albrich",
+      "description": "A fireball? Of course. Whatever Your Imperial Majesty wishes.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 2,
+      "ability": ""
+    },
+    "img": {
+      "art": "0_Albrich.webp",
+      "faction": "0_Albrich_Faction.webp",
+      "description": "0_Albrich_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 1.0,
+      "name": "Arachas",
+      "description": "Ugly – nature's way of saying 'Stay the fuck away.'",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 4,
+      "ability": "Muster"
+    },
+    "img": {
+      "art": "1.0_Arachas.webp",
+      "faction": "1.0_Arachas_Faction.webp",
+      "description": "1.0_Arachas_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 1.1,
+      "name": "Arachas",
+      "description": "Ugly – nature's way of saying 'Stay the fuck away.'",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 4,
+      "ability": "Muster"
+    },
+    "img": {
+      "background": "1.1_Arachas.webp",
+      "faction": "1.1_Arachas_Faction.webp",
+      "description": "1.1_Arachas_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 1.2,
+      "name": "Arachas",
+      "description": "Ugly – nature's way of saying 'Stay the fuck away.'",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 4,
+      "ability": "Muster"
+    },
+    "img": {
+      "background": "1.2_Arachas.webp",
+      "faction": "1.2_Arachas_Faction.webp",
+      "description": "1.2_Arachas_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 2,
+      "name": "Arachas Behemoth",
+      "description": "Like a cross between a crab, a spider... and a ploughin' mountain.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Siege",
+      "strength": 6,
+      "ability": "Muster"
+    },
+    "img": {
+      "background": "2_ArachasBehemoth.webp",
+      "faction": "2_ArachasBehemoth_Faction.webp",
+      "description": "2_ArachasBehemoth_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 3,
+      "name": "Assire var Anahid",
+      "description": "Nilfgaardian mages do have a choice: servile submission, or the gallows.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 6,
+      "ability": ""
+    },
+    "img": {
+      "background": "3_AssireVarAnahid.webp",
+      "faction": "3_AssireVarAnahid_Faction.webp",
+      "description": "3_AssireVarAnahid_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 4.0,
+      "name": "Ballista",
+      "description": "Usually we give 'em female names. \"Like Jenny?\" \"More like Bertha.\"",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Units",
+      "row": "Siege",
+      "strength": 6,
+      "ability": ""
+    },
+    "img": {
+      "background": "4.0_Ballista.webp",
+      "faction": "4.0_Ballista_Faction.webp",
+      "description": "4.0_Ballista_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 4.1,
+      "name": "Ballista",
+      "description": "Usually we give 'em female names. \"Like Jenny?\" \"More like Bertha.\"",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Units",
+      "row": "Siege",
+      "strength": 6,
+      "ability": ""
+    },
+    "img": {
+      "background": "4.1_Ballista.webp",
+      "faction": "4.1_Ballista_Faction.webp",
+      "description": "4.1_Ballista_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Barclay Els",
+      "description": "Our mead smells like piss, do it? Easy to fix – I'll break your fuckin' nose!",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": ["Close combat", "Ranged combat"],
+      "strength": 6,
+      "ability": "Agile"
+    },
+    "img": {
+      "background": "5_BarclayEls.webp",
+      "faction": "5_BarclayEls_Faction.webp",
+      "description": "5_BarclayEls_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 6,
+      "name": "Biting Frost",
+      "description": "Best part about frost – bodies of the fallen don't rot so quickly.",
+      "duplicateCount": 3
+    },
+    "attributes": {
+      "deck": "Neutral",
+      "type": "Weather",
+      "row": "",
+      "strength": "",
+      "ability": "Sets all Close combat units to strength 1 for both players."
+    },
+    "img": {
+      "background": "6_BitingFrost.webp",
+      "faction": "6_BitingFrost_Faction.webp",
+      "description": "6_BitingFrost_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 7,
+      "name": "Black Infantry Archer",
+      "description": "I aim for the knee. Always.",
+      "duplicateCount": 3
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 10,
+      "ability": ""
+    },
+    "img": {
+      "background": "7_BlackInfantryArcher.webp",
+      "faction": "7_BlackInfantryArcher_Faction.webp",
+      "description": "7_BlackInfantryArcher_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 8,
+      "name": "Blue Stripes Commando",
+      "description": "I'll do anything for Temeria. Mostly, though, I kill for her.",
+      "duplicateCount": 5
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 4,
+      "ability": "Tight bond"
+    },
+    "img": {
+      "background": "8_BlueStripesCommando.webp",
+      "faction": "8_BlueStripesCommando_Faction.webp",
+      "description": "8_BlueStripesCommando_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 9,
+      "name": "Botchling",
+      "description": "Admit your mistakes and bury them proper – else they'll come back to haunt you.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 4,
+      "ability": ""
+    },
+    "img": {
+      "background": "9_Botchling.webp",
+      "faction": "9_Botchling_Faction.webp",
+      "description": "9_Botchling_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 10,
+      "name": "Cahir Mawr Dyffryn aep Ceallach",
+      "description": "His eyes flashed under his winged helmet. Fire gleamed from his sword's blade.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 6,
+      "ability": ""
+    },
+    "img": {
+      "background": "10_CahirCeallach.webp",
+      "faction": "10_CahirCeallach_Faction.webp",
+      "description": "10_CahirCeallach_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 11,
+      "name": "Catapult",
+      "description": "The gods help those who have better catapults.",
+      "duplicateCount": 3
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Units",
+      "row": "Siege",
+      "strength": 8,
+      "ability": "Tight bond"
+    },
+    "img": {
+      "background": "11_Catapult.webp",
+      "faction": "11_Catapult_Faction.webp",
+      "description": "11_Catapult_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 12,
+      "name": "Celaeno Harpy",
+      "description": "Common harpies feed on carrion. Celaeno harpies... they feed on dreams.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": ["Close combat", "Ranged combat"],
+      "strength": 2,
+      "ability": "Agile"
+    },
+    "img": {
+      "background": "12_CelaenoHarpy.webp",
+      "faction": "12_CelaenoHarpy_Faction.webp",
+      "description": "12_CelaenoHarpy_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 13,
+      "name": "Ciaran aep Easnillien",
+      "description": "The path to freedom is paved in blood, not ink.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": ["Close combat", "Ranged combat"],
+      "strength": 3,
+      "ability": "Agile"
+    },
+    "img": {
+      "background": "13_CiaranEasnillien.webp",
+      "faction": "13_CiaranEasnillien_Faction.webp",
+      "description": "13_CiaranEasnillien_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 14,
+      "name": "Cirilla Fiona Elen Riannon",
+      "description": "Know when fairy tales cease to be tales? When people start believing in them.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Neutral",
+      "type": "Heroes",
+      "row": "Close combat",
+      "strength": 15,
+      "ability": "Hero"
+    },
+    "img": {
+      "background": "14_CirillaRiannon.webp",
+      "faction": "14_CirillaRiannon_Faction.webp",
+      "description": "14_CirillaRiannon_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 15,
+      "name": "Clear Weather",
+      "description": "The sun's shinin', Dromle! The sun's shinin'! Maybe there's hope left after all...",
+      "duplicateCount": 2
+    },
+    "attributes": {
+      "deck": "Neutral",
+      "type": "Weather",
+      "row": "",
+      "strength": "",
+      "ability": "Removes all weather effects."
+    },
+    "img": {
+      "background": "15_ClearWeather.webp",
+      "faction": "15_ClearWeather_Faction.webp",
+      "description": "15_ClearWeather_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 16,
+      "name": "Cockatrice",
+      "description": "Born of an egg laid by a cockerel... if you believe such peasant drivel.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 2,
+      "ability": ""
+    },
+    "img": {
+      "background": "16_Cockatrice.webp",
+      "faction": "16_Cockatrice_Faction.webp",
+      "description": "16_Cockatrice_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 17,
+      "name": "Commander's Horn",
+      "description": "Plus one to morale, minus three to hearing.",
+      "duplicateCount": 3
+    },
+    "attributes": {
+      "deck": "Neutral",
+      "type": "Special",
+      "row": "",
+      "strength": "",
+      "ability": "Commander's horn"
+    },
+    "img": {
+      "background": "17_CommandersHorn.webp",
+      "faction": "17_CommandersHorn_Faction.webp",
+      "description": "17_CommandersHorn_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 18,
+      "name": "Crinfrid Reavers Dragon Hunter",
+      "description": "Haven't had much luck with monsters of late, so we enlisted.",
+      "duplicateCount": 3
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 5,
+      "ability": "Tight bond"
+    },
+    "img": {
+      "background": "18_CrinfridHunter.webp",
+      "faction": "18_CrinfridHunter_Faction.webp",
+      "description": "18_CrinfridHunter_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 19,
+      "name": "Crone: Brewess",
+      "description": "We'll cut you up, boy. A fine broth you will make.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 6,
+      "ability": "Muster"
+    },
+    "img": {
+      "background": "19_CroneBrewess.webp",
+      "faction": "19_CroneBrewess_Faction.webp",
+      "description": "19_CroneBrewess_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 20,
+      "name": "Crone: Weavess",
+      "description": "I sense your pain. I see your fear...",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 6,
+      "ability": "Muster"
+    },
+    "img": {
+      "background": "20_CroneWeavess.webp",
+      "faction": "20_CroneWeavess_Faction.webp",
+      "description": "20_CroneWeavess_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 21,
+      "name": "Crone: Whispess",
+      "description": "I'd be your best – and last.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 6,
+      "ability": "Muster"
+    },
+    "img": {
+      "background": "21_CroneWhispess.webp",
+      "faction": "21_CroneWhispess_Faction.webp",
+      "description": "21_CroneWhispess_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 22,
+      "name": "Cynthia",
+      "description": "Cynthia's talents can be deadly. She needs a tight leash.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 4,
+      "ability": ""
+    },
+    "img": {
+      "background": "22_Cynthia.webp",
+      "faction": "22_Cynthia_Faction.webp",
+      "description": "22_Cynthia_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 23,
+      "name": "Dandelion",
+      "description": "Dandelion, you're a cynic, a lecher, a whoremonger, a liar – and my best friend.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Neutral",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 2,
+      "ability": "Commander's horn"
+    },
+    "img": {
+      "background": "23_Dandelion.webp",
+      "faction": "23_Dandelion_Faction.webp",
+      "description": "23_Dandelion_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 24,
+      "name": "Decoy",
+      "description": "When you run out of peasants, decoys also make decent arrow fodder.",
+      "duplicateCount": 3
+    },
+    "attributes": {
+      "deck": "Neutral",
+      "type": "Special",
+      "row": "",
+      "strength": "",
+      "ability": "Decoy"
+    },
+    "img": {
+      "background": "24_Decoy.webp",
+      "faction": "24_Decoy_Faction.webp",
+      "description": "24_Decoy_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 25,
+      "name": "Dennis Cranmer",
+      "description": "I know how to carry out orders, so you can shove you advice up your coal chute.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 6,
+      "ability": ""
+    },
+    "img": {
+      "background": "25_DennisCranmer.webp",
+      "faction": "25_DennisCranmer_Faction.webp",
+      "description": "25_DennisCranmer_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 26,
+      "name": "Dethmold",
+      "description": "I once made a prisoner vomit his own entrails... Ah, good times...",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 6,
+      "ability": ""
+    },
+    "img": {
+      "background": "26_Dethmold.webp",
+      "faction": "26_Dethmold_Faction.webp",
+      "description": "26_Dethmold_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 27,
+      "name": "Dol Blathanna Archer",
+      "description": "Take another step, dh'oine. You'd look better with an arrow between your eyes.",
+      "duplicateCount": 2
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 4,
+      "ability": ""
+    },
+    "img": {
+      "background": "27_DolBlathannaArcher.webp",
+      "faction": "27_DolBlathannaArcher_Faction.webp",
+      "description": "27_DolBlathannaArcher_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 28.0,
+      "name": "Dol Blathanna Scout",
+      "description": "They track like hounds, run like deer and kill like cold-hearted bastards.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": ["Close combat", "Ranged combat"],
+      "strength": 6,
+      "ability": "Agile"
+    },
+    "img": {
+      "background": "28.0_DolBlathannaScout.webp",
+      "faction": "28.0_DolBlathannaScout_Faction.webp",
+      "description": "28.0_DolBlathannaScout_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 28.1,
+      "name": "Dol Blathanna Scout",
+      "description": "They track like hounds, run like deer and kill like cold-hearted bastards.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": ["Close combat", "Ranged combat"],
+      "strength": 6,
+      "ability": "Agile"
+    },
+    "img": {
+      "background": "28.1_DolBlathannaScout.webp",
+      "faction": "28.1_DolBlathannaScout_Faction.webp",
+      "description": "28.1_DolBlathannaScout_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 28.2,
+      "name": "Dol Blathanna Scout",
+      "description": "They track like hounds, run like deer and kill like cold-hearted bastards.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": ["Close combat", "Ranged combat"],
+      "strength": 6,
+      "ability": "Agile"
+    },
+    "img": {
+      "background": "28.2_DolBlathannaScout.webp",
+      "faction": "28.2_DolBlathannaScout_Faction.webp",
+      "description": "28.2_DolBlathannaScout_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 29,
+      "name": "Draug",
+      "description": "Some men cannot admit defeat. Some keep fighting from beyond the grave.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Heroes",
+      "row": "Close combat",
+      "strength": 10,
+      "ability": "Hero"
+    },
+    "img": {
+      "background": "29_Draug.webp",
+      "faction": "29_Draug_Faction.webp",
+      "description": "29_Draug_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 30,
+      "name": "Dun Banner Medic",
+      "description": "Stitch red to red, white to white, and everything will be all right.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Units",
+      "row": "Siege",
+      "strength": 5,
+      "ability": "Medic"
+    },
+    "img": {
+      "background": "30_DunBannerMedic.webp",
+      "faction": "30_DunBannerMedic_Faction.webp",
+      "description": "30_DunBannersMedic_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 31.0,
+      "name": "Dwarven Skirmisher",
+      "description": "Worked a pickaxe all me life. Battleaxe won't be any trouble.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 3,
+      "ability": "Muster"
+    },
+    "img": {
+      "background": "31.0_DwarvenSkirmisher.webp",
+      "faction": "31.0_DwarvenSkirmisher_Faction.webp",
+      "description": "31.0_DwarvenSkirmisher_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 31.1,
+      "name": "Dwarven Skirmisher",
+      "description": "Worked a pickaxe all me life. Battleaxe won't be any trouble.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 3,
+      "ability": "Muster"
+    },
+    "img": {
+      "background": "31.1_DwarvenSkirmisher.webp",
+      "faction": "31.1_DwarvenSkirmisher_Faction.webp",
+      "description": "31.1_DwarvenSkirmisher_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 31.2,
+      "name": "Dwarven Skirmisher",
+      "description": "Worked a pickaxe all me life. Battleaxe won't be any trouble.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 3,
+      "ability": "Muster"
+    },
+    "img": {
+      "background": "31.2_DwarvenSkirmisher.webp",
+      "faction": "31.2_DwarvenSkirmisher_Faction.webp",
+      "description": "31.2_DwarvenSkirmisher_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 32,
+      "name": "Earth Elemental",
+      "description": "How to fight an earth elemental? You don't. You run. Fast as you can.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Siege",
+      "strength": 6,
+      "ability": ""
+    },
+    "img": {
+      "background": "32_EarthElemental.webp",
+      "faction": "32_EarthElemental_Faction.webp",
+      "description": "32_EarthElemental_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 33,
+      "name": "Eithné",
+      "description": "The dryad queen has eyes of molten silver, and a heart of cold-forged steel.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Heroes",
+      "row": "Ranged combat",
+      "strength": 10,
+      "ability": "Hero"
+    },
+    "img": {
+      "background": "33_Eithne.webp",
+      "faction": "33_Eithne_Faction.webp",
+      "description": "33_Eithne_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 34.0,
+      "name": "Elven Skirmisher",
+      "description": "No matter what you may have heard, elves don't take human scalps. Too much lice.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 2,
+      "ability": "Muster"
+    },
+    "img": {
+      "background": "34.0_ElvenSkirmisher.webp",
+      "faction": "34.0_ElvenSkirmisher_Faction.webp",
+      "description": "34.0_ElvenSkirmisher_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 34.1,
+      "name": "Elven Skirmisher",
+      "description": "No matter what you may have heard, elves don't take human scalps. Too much lice.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 2,
+      "ability": "Muster"
+    },
+    "img": {
+      "background": "34.1_ElvenSkirmisher.webp",
+      "faction": "34.1_ElvenSkirmisher_Faction.webp",
+      "description": "34.1_ElvenSkirmisher_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 34.2,
+      "name": "Elven Skirmisher",
+      "description": "No matter what you may have heard, elves don't take human scalps. Too much lice.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 2,
+      "ability": "Muster"
+    },
+    "img": {
+      "background": "34.2_ElvenSkirmisher.webp",
+      "faction": "34.2_ElvenSkirmisher_Faction.webp",
+      "description": "34.2_ElvenSkirmisher_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 35,
+      "name": "Emhyr var Emreis: Emperor of Nilfgaard",
+      "description": "Your motives do not interest me. Only results.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Leaders",
+      "row": "",
+      "strength": "",
+      "ability": "Look at 3 random cards from your opponent's hand."
+    },
+    "img": {
+      "background": "35_EmhyrEmperorOfNilfgaard.webp",
+      "faction": "",
+      "description": "35_EmhyrEmperorOfNilfgaard_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 36,
+      "name": "Emhyr var Emreis: His Imperial Majesty",
+      "description": "The skies wept when my Pavetta died. They will not weep for me.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Leaders",
+      "row": "",
+      "strength": "",
+      "ability": "Pick a Torrential Rain card from your deck and play it instantly."
+    },
+    "img": {
+      "background": "36_EmhyrHisImperialMajesty.webp",
+      "faction": "",
+      "description": "36_EmhyrHisImperialMajesty_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 37,
+      "name": "Emhyr var Emreis: Invader of the North",
+      "description": "Emperors command multitudes, yet cannot control two things: their time and their hearts.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Leaders",
+      "row": "",
+      "strength": "",
+      "ability": "Abilities that restore a unit to the battlefield restore a randomly-chosen unit. Affects both players."
+    },
+    "img": {
+      "background": "37_EmhyrInvaderOfTheNorth.webp",
+      "faction": "",
+      "description": "37_EmhyrInvaderOfTheNorth_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 38,
+      "name": "Emhyr var Emreis: The Relentless",
+      "description": "They do not call me the Patient. Take care they do not call you the Headless.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Leaders",
+      "row": "",
+      "strength": "",
+      "ability": "Draw a card from your opponent's discard pile."
+    },
+    "img": {
+      "background": "38_EmhyrTheRelentless.webp",
+      "faction": "",
+      "description": "38_EmhyrTheRelentless_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 39,
+      "name": "Emhyr var Emreis: The White Flame",
+      "description": "A sword is but one of many tools at a ruler's disposal.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Leaders",
+      "row": "",
+      "strength": "",
+      "ability": "Cancel your opponent's Leader Ability."
+    },
+    "img": {
+      "background": "39_EmhyrTheWhiteFlame.webp",
+      "faction": "",
+      "description": "39_EmhyrTheWhiteFlame_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 40,
+      "name": "Emiel Regis Rohellec Terzieff",
+      "description": "Men, the polite ones, at least, call me a monster. A blood-drinking freak.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Neutral",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 5,
+      "ability": ""
+    },
+    "img": {
+      "background": "40_EmielRegis.webp",
+      "faction": "40_EmielRegis_Faction.webp",
+      "description": "40_EmielRegis_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 41,
+      "name": "Endrega",
+      "description": "The nest! Take out the nest, or the bastards'll just keep coming!",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 2,
+      "ability": ""
+    },
+    "img": {
+      "background": "41_Endrega.webp",
+      "faction": "41_Endrega_Faction.webp",
+      "description": "41_Endrega_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 42,
+      "name": "Eredin Bréacc Glas: The Treacherous",
+      "description": "I'm enjoying this. You are my toy.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Leaders",
+      "row": "",
+      "strength": "",
+      "ability": "Doubles strength of all spies."
+    },
+    "img": {
+      "background": "42_EredinTheTreacherous.webp",
+      "faction": "",
+      "description": "42_EredinTheTreacherous_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 43,
+      "name": "Eredin: Bringer of Death",
+      "description": "Go on. Show me your spins, pirouettes and feints. I want to watch.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Leaders",
+      "row": "",
+      "strength": "",
+      "ability": "Restore a card from your discard pile to your hand."
+    },
+    "img": {
+      "background": "43_EredinBringerOfDeath.webp",
+      "faction": "",
+      "description": "43_EredinBringerOfDeath_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 44,
+      "name": "Eredin: Commander of the Red Riders",
+      "description": "Have some dignity. You know how this will end.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Leaders",
+      "row": "",
+      "strength": "",
+      "ability": " Double the strength of all your Close Combat units (unless a Commander's Horn is also present on that row)."
+    },
+    "img": {
+      "background": "44_EredinCommanderOfTheRedRiders.webp",
+      "faction": "",
+      "description": "44_EredinCommanderOfTheRedRiders_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 45,
+      "name": "Eredin: Destroyer of Worlds",
+      "description": "It is unavoidable.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Leaders",
+      "row": "",
+      "strength": "",
+      "ability": "Discard 2 cards and draw 1 card of your choice from your deck."
+    },
+    "img": {
+      "background": "45_EredinDestroyerOfWorlds.webp",
+      "faction": "",
+      "description": "45_EredinDestroyerOfWorlds_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 46,
+      "name": "Eredin: King of the Wild Hunt",
+      "description": "I've long awaited this...",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Leaders",
+      "row": "",
+      "strength": "",
+      "ability": "Pick any weather card from your deck and play it instantly."
+    },
+    "img": {
+      "background": "46_EredinKingOfTheWildHunt.webp",
+      "faction": "",
+      "description": "46_EredinKingOfTheWildHunt_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 47,
+      "name": "Esterad Thyssen",
+      "description": "Like all Thyssen men, he was tall, powefully built and criminally handsome.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Heroes",
+      "row": "Close combat",
+      "strength": 10,
+      "ability": "Hero"
+    },
+    "img": {
+      "background": "47_EsteradThyssen.webp",
+      "faction": "47_EsteradThyssen_Faction.webp",
+      "description": "47_EsteradThyssen_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 48.0,
+      "name": "Etolian Auxiliary Archers",
+      "description": "Double or nothing, aim for his cock.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 1,
+      "ability": "Medic"
+    },
+    "img": {
+      "background": "48.0_EtolianAuxiliaryArchers.webp",
+      "faction": "48.0_EtolianAuxiliaryArchers_Faction.webp",
+      "description": "48.0_EtolianAuxiliaryArchers_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 48.1,
+      "name": "Etolian Auxiliary Archers",
+      "description": "Double or nothing, aim for his cock.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 1,
+      "ability": "Medic"
+    },
+    "img": {
+      "background": "48.1_EtolianAuxiliaryArchers.webp",
+      "faction": "48.1_EtolianAuxiliaryArchers_Faction.webp",
+      "description": "48.1_EtolianAuxiliaryArchers_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 49,
+      "name": "Fiend",
+      "description": "A fiend looks a bit like a deer. An enormous, evil deer.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 6,
+      "ability": ""
+    },
+    "img": {
+      "background": "49_Fiend.webp",
+      "faction": "49_Fiend_Faction.webp",
+      "description": "49_Fiend_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 50,
+      "name": "Filavandrel aen Fidhail",
+      "description": "Though we are now few and scattered, our hearts burn brighter than ever.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": ["Close combat", "Ranged combat"],
+      "strength": 6,
+      "ability": "Agile"
+    },
+    "img": {
+      "background": "50_FilavandrelAenFidhail.webp",
+      "faction": "50_FilavandrelAenFidhail_Faction.webp",
+      "description": "50_FilavandrelAenFidhail_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 51,
+      "name": "Fire Elemental",
+      "description": "Fire is so delightful.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Siege",
+      "strength": 6,
+      "ability": ""
+    },
+    "img": {
+      "background": "51_FireElemental.webp",
+      "faction": "51_FireElemental_Faction.webp",
+      "description": "51_FireElemental_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 52,
+      "name": "Foglet",
+      "description": "Fog creeps on little cat feet. Foglets creep over the bodies of their victims.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 2,
+      "ability": ""
+    },
+    "img": {
+      "background": "52_Foglet.webp",
+      "faction": "52_Foglet_Faction.webp",
+      "description": "52_Foglet_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 53,
+      "name": "Foltest: King of Temeria",
+      "description": "It is natural and beautiful that a man should love his sister.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Leaders",
+      "row": "",
+      "strength": "",
+      "ability": "Pick an Impenetrable Fog card from your deck and play it instantly."
+    },
+    "img": {
+      "background": "53_FoltestKingOfTemeria.webp",
+      "faction": "",
+      "description": "53_FoltestKingOfTemeria_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 54,
+      "name": "Foltest: Lord Commander of the North",
+      "description": "Sod advisors and their schemes. I place my trust in my soldiers' blades.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Leaders",
+      "row": "",
+      "strength": "",
+      "ability": "Clear any weather effects (resulting from Biting Frost, Torrential Rain or Impenetrable Fog cards) in play."
+    },
+    "img": {
+      "background": "54_FoltestLordCommanderOfTheNorth.webp",
+      "faction": "",
+      "description": "54_FoltestLordCommanderOfTheNorth_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 55,
+      "name": "Foltest: Son of Medell",
+      "description": "Dammit, I rule this land and I refuse to creep around its corners.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Leaders",
+      "row": "",
+      "strength": "",
+      "ability": "Destroy your enemy's strongest Ranged Combat unit(s) if the combined strength of all his or her Ranged Combat units is 10 or more."
+    },
+    "img": {
+      "background": "55_FoltestSonOfMedell.webp",
+      "faction": "",
+      "description": "55_FoltestSonOfMedell_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 56,
+      "name": "Foltest: The Siegemaster",
+      "description": "A well-aimed ballista razes not just the enemy's walls, but his morale as well.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Leaders",
+      "row": "",
+      "strength": "",
+      "ability": "Doubles the strength of all your Siege units (unless a Commander's Horn is also present on that row)."
+    },
+    "img": {
+      "background": "56_FoltestTheSiegemaster.webp",
+      "faction": "",
+      "description": "56_FoltestTheSiegemaster_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 57,
+      "name": "Foltest: The Steel-Forged",
+      "description": "A beautiful day for battle.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Leaders",
+      "row": "",
+      "strength": "",
+      "ability": "Destroy your enemy's strongest Siege unit(s) if the combined strength of all his or her Siege units is 10 or more."
+    },
+    "img": {
+      "background": "57_FoltestTheSteel-Forged.webp",
+      "faction": "",
+      "description": "57_FoltestTheSteel-Forged_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 58,
+      "name": "Forktail",
+      "description": "Fork tails... Bah! Fuckers' tails're more like cleavers.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 5,
+      "ability": ""
+    },
+    "img": {
+      "background": "58_Forktail.webp",
+      "faction": "58_Forktail_Faction.webp",
+      "description": "58_Forktail_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 59,
+      "name": "Francesca Findabair: Daisy of the Valley",
+      "description": "Do not let my beauty distract your aim.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Leaders",
+      "row": "",
+      "strength": "",
+      "ability": "Draw an extra card at the beginning of the battle."
+    },
+    "img": {
+      "background": "59_FrancescaFindabairDaisyOfTheValley.webp",
+      "faction": "",
+      "description": "59_FrancescaFindabairDaisyOfTheValley_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 60,
+      "name": "Francesca Findabair: Hope of the Aen Seidhe",
+      "description": "Daede sian caente, Aen Seidhe en'allane ael coeden...",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Leaders",
+      "row": "",
+      "strength": "",
+      "ability": "Move agile unites to whichever valid row maximizes their strength (don't move units already in optimal row)."
+    },
+    "img": {
+      "background": "60_FrancescaFindabairHopeOfTheAenSeidhe.webp",
+      "faction": "",
+      "description": "60_FrancescaFindabairHopeOfTheAenSeidhe_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 61,
+      "name": "Francesca Findabair: Pureblood Elf",
+      "description": "Ash shall fertilize the soil. By spring, the valley shall bloom once more.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Leaders",
+      "row": "",
+      "strength": "",
+      "ability": "Pick a Biting Frost card from your deck and play it instantly."
+    },
+    "img": {
+      "background": "61_FrancescaFindabairPurebloodElf.webp",
+      "faction": "",
+      "description": "61_FrancescaFindabairPurebloodElf_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 62,
+      "name": "Francesca Findabair: Queen of Dol Blathanna",
+      "description": "To live in peace, we first must kill. This is human oppression's cruel finale.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Leaders",
+      "row": "",
+      "strength": "",
+      "ability": "Destroy your enemy's Close Combat unit(s) if the combined strength of all his or her Close Combat units is 10 or more."
+    },
+    "img": {
+      "background": "62_FrancescaFindabairQueenOfDolBlathanna.webp",
+      "faction": "",
+      "description": "62_FrancescaFindabairQueenOfDolBlathanna_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Francesca Findabair: The Beautiful",
+      "description": "The Elder Races have forgotten more than humans can ever hope to know.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Leaders",
+      "row": "",
+      "strength": "",
+      "ability": "Doubles the strength of all your Ranged Combat units (unless a Commander's Horn is also present on that row)."
+    },
+    "img": {
+      "background": "63_FrancescaFindabairTheBeautiful.webp",
+      "faction": "",
+      "description": "63_FrancescaFindabairTheBeautiful_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 64,
+      "name": "Frightener",
+      "description": "\"What have I done?\" the mage cried out, frightened of his own creation.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 5,
+      "ability": ""
+    },
+    "img": {
+      "background": "64_Frightener.webp",
+      "faction": "64_Frightener_Faction.webp",
+      "description": "64_Frightener_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 65,
+      "name": "Fringilla Vigo",
+      "description": "Magic is the highest good. It transcends all borders and divisions.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 6,
+      "ability": ""
+    },
+    "img": {
+      "background": "65_FringillaVigo.webp",
+      "faction": "65_FringillaVigo_Faction.webp",
+      "description": "65_FringillaVigo_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 66,
+      "name": "Gargoyle",
+      "description": "Ancient sculptors' nightmarish fantasies, brought to life by bored mages.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 2,
+      "ability": ""
+    },
+    "img": {
+      "background": "66_Gargoyle.webp",
+      "faction": "66_Gargoyle_Faction.webp",
+      "description": "66_Gargoyle_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 67,
+      "name": "Geralt of Rivia",
+      "description": "If that's what it takes to save the world, it's better to let that world die.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Neutral",
+      "type": "Heroes",
+      "row": "Close combat",
+      "strength": 15,
+      "ability": "Hero"
+    },
+    "img": {
+      "background": "67_GeraltOfRivia.webp",
+      "faction": "67_GeraltOfRivia_Faction.webp",
+      "description": "67_GeraltOfRivia_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 68.0,
+      "name": "Ghoul",
+      "description": "If ghouls are part of the Circle of Life... then it's a damn vicious circle.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 1,
+      "ability": "Muster"
+    },
+    "img": {
+      "background": "68.0_Ghoul.webp",
+      "faction": "68.0_Ghoul_Faction.webp",
+      "description": "68.0_Ghoul_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 68.1,
+      "name": "Ghoul",
+      "description": "If ghouls are part of the Circle of Life... then it's a damn vicious circle.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 1,
+      "ability": "Muster"
+    },
+    "img": {
+      "background": "68.1_Ghoul.webp",
+      "faction": "68.1_Ghoul_Faction.webp",
+      "description": "68.1_Ghoul_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 68.2,
+      "name": "Ghoul",
+      "description": "If ghouls are part of the Circle of Life... then it's a damn vicious circle.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 1,
+      "ability": "Muster"
+    },
+    "img": {
+      "background": "68.2_Ghoul.webp",
+      "faction": "68.2_Ghoul_Faction.webp",
+      "description": "68.2_Ghoul_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 69,
+      "name": "Grave Hag",
+      "description": "Their long tongues're for slurping marrow – and whipping prey.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 5,
+      "ability": ""
+    },
+    "img": {
+      "background": "69_GraveHag.webp",
+      "faction": "69_GraveHag_Faction.webp",
+      "description": "69_GraveHag_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 70,
+      "name": "Griffin",
+      "description": "Griffins like to toy with their prey. Eat'em alive, piece by piece.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 5,
+      "ability": ""
+    },
+    "img": {
+      "background": "70_Griffin.webp",
+      "faction": "70_Griffin_Faction.webp",
+      "description": "70_Griffin_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 71,
+      "name": "Harpy",
+      "description": "There are many species of harpy, and all are kleptomaniacs.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": ["Close combat", "Ranged combat"],
+      "strength": 2,
+      "ability": "Agile"
+    },
+    "img": {
+      "background": "71_Harpy.webp",
+      "faction": "71_Harpy_Faction.webp",
+      "description": "71_Harpy_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 72.0,
+      "name": "Havekar Healer",
+      "description": "Sure, I'll patch you up. Gonna cost you, though.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 0,
+      "ability": "Medic"
+    },
+    "img": {
+      "background": "72.0_HavekarHealer.webp",
+      "faction": "72.0_HavekarHealer_Faction.webp",
+      "description": "72.0_HavekarHealer_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 72.1,
+      "name": "Havekar Healer",
+      "description": "Sure, I'll patch you up. Gonna cost you, though.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 0,
+      "ability": "Medic"
+    },
+    "img": {
+      "background": "72.1_HavekarHealer.webp",
+      "faction": "72.1_HavekarHealer_Faction.webp",
+      "description": "72.1_HavekarHealer_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 72.2,
+      "name": "Havekar Healer",
+      "description": "Sure, I'll patch you up. Gonna cost you, though.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 0,
+      "ability": "Medic"
+    },
+    "img": {
+      "background": "72.2_HavekarHealer.webp",
+      "faction": "72.2_HavekarHealer_Faction.webp",
+      "description": "72.2_HavekarHealer_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 73.0,
+      "name": "Havekar Smuggler",
+      "description": "I fight for whoever's paying the best. Or whoever's easiest to rob.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 5,
+      "ability": "Muster"
+    },
+    "img": {
+      "background": "73.0_HavekarSmuggler.webp",
+      "faction": "73.0_HavekarSmuggler_Faction.webp",
+      "description": "73.0_HavekarSmuggler_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 73.1,
+      "name": "Havekar Smuggler",
+      "description": "I fight for whoever's paying the best. Or whoever's easiest to rob.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 5,
+      "ability": "Muster"
+    },
+    "img": {
+      "background": "73.1_HavekarSmuggler.webp",
+      "faction": "73.1_HavekarSmuggler_Faction.webp",
+      "description": "73.1_HavekarSmuggler_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 73.2,
+      "name": "Havekar Smuggler",
+      "description": "I fight for whoever's paying the best. Or whoever's easiest to rob.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 5,
+      "ability": "Muster"
+    },
+    "img": {
+      "background": "73.2_HavekarSmuggler.webp",
+      "faction": "73.2_HavekarSmuggler_Faction.webp",
+      "description": "73.2_HavekarSmuggler_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 74,
+      "name": "Heavy Zerrikanian Fire Scorpion",
+      "description": "Not the best for taking cities, but great for razing them to the ground.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Siege",
+      "strength": 10,
+      "ability": ""
+    },
+    "img": {
+      "art": "74_HeavyFireScorpion.webp",
+      "faction": "74_HeavyFireScorpion_Faction.webp",
+      "description": "74_HeavyFireScorpion_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Ice Giant",
+      "description": "Fled one time in my life. From the Ice Giant. And I'm not a bit ashamed.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Siege",
+      "strength": 5,
+      "ability": ""
+    },
+    "img": {
+      "art": "75_IceGiant.webp",
+      "faction": "75_IceGiant_Faction.webp",
+      "description": "75_IceGiant_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 76,
+      "name": "Ida Emean aep Sivney",
+      "description": "I am a Sage. My power lies in possessing knowledge. Not sharing it.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 6,
+      "ability": ""
+    },
+    "img": {
+      "art": "76_IdaEmeanSivney.webp",
+      "faction": "76_IdaEmeanSivney_Faction.webp",
+      "description": "76_IdaEmeanSivney_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 77,
+      "name": "Imlerith",
+      "description": "Ladd nahw! Kill them! Litter the earth with their entrails!",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Heroes",
+      "row": "Close combat",
+      "strength": 10,
+      "ability": "Hero"
+    },
+    "img": {
+      "art": "77_Imlerith.webp",
+      "faction": "77_Imlerith_Faction.webp",
+      "description": "77_Imlerith_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 78,
+      "name": "Impenetrable Fog",
+      "description": "A good commander's dream... a bad one's horror.",
+      "duplicateCount": 3
+    },
+    "attributes": {
+      "deck": "Neutral",
+      "type": "Weather",
+      "row": "",
+      "strength": "",
+      "ability": "Sets all Ranged combat units to strength 1 for both players."
+    },
+    "img": {
+      "art": "78_ImpenetrableFog.webp",
+      "faction": "78_ImpenetrableFog_Faction.webp",
+      "description": "78_ImpenetrableFog_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 79,
+      "name": "Impera Brigade Guard",
+      "description": "The Impera Brigade never surrenders. Ever.",
+      "duplicateCount": 4
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 3,
+      "ability": "Tight bond"
+    },
+    "img": {
+      "art": "79_ImperaBrigadeGuard.webp",
+      "faction": "79_ImperaBrigadeGuard_Faction.webp",
+      "description": "79_ImperaBrigadeGuard_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 80,
+      "name": "Iorveth",
+      "description": "King or beggar, what's the difference? One dh'oine less.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Heroes",
+      "row": "Ranged combat",
+      "strength": 10,
+      "ability": "Hero"
+    },
+    "img": {
+      "art": "80_Iorveth.webp",
+      "faction": "80_Iorveth_Faction.webp",
+      "description": "80_Iorveth_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 81,
+      "name": "Isengrim Faoiltiarna",
+      "description": "It dawns on them once they notice my scar: a realization of imminent death.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Heroes",
+      "row": "Close combat",
+      "strength": 10,
+      "ability": ["Hero", "Morale boost"]
+    },
+    "img": {
+      "art": "81_IsengrimFaoiltiarna.webp",
+      "faction": "81_IsengrimFaoiltiarna_Faction.webp",
+      "description": "81_IsengrimFaoiltiarna_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 82,
+      "name": "John Natalis",
+      "description": "That square should bear the names of my soldiers, of the dead. Not mine.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Heroes",
+      "row": "Close combat",
+      "strength": 10,
+      "ability": "Hero"
+    },
+    "img": {
+      "art": "82_JohnNatalis.webp",
+      "faction": "82_JohnNatalis_Faction.webp",
+      "description": "82_JohnNatalis_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 83,
+      "name": "Kaedweni Siege Expert",
+      "description": "\"You gotta recalibrate the arm by five degrees.\" \"Do what by the what now?\"",
+      "duplicateCount": 3
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Units",
+      "row": "Siege",
+      "strength": 1,
+      "ability": "Morale boost"
+    },
+    "img": {
+      "art": "83_KaedweniSiegeExpert.webp",
+      "faction": "83_KaedweniSiegeExpert_Faction.webp",
+      "description": "83_KaedweniSiegeExpert_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 84,
+      "name": "Kayran",
+      "description": "Kill a kayran? Simple. Take your best sword... then sell it and hire a witcher.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Heroes",
+      "row": ["Close combat", "Ranged combat"],
+      "strength": 8,
+      "ability": ["Hero", "Agile", "Morale boost"]
+    },
+    "img": {
+      "art": "84_Kayran.webp",
+      "faction": "84_Kayran_Faction.webp",
+      "description": "84_Kayran_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 85,
+      "name": "Keira Metz",
+      "description": "If I'm to die today, I wish to look smashing for the occasion.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 5,
+      "ability": ""
+    },
+    "img": {
+      "art": "85_KeiraMetz.webp",
+      "faction": "85_KeiraMetz_Faction.webp",
+      "description": "85_KeiraMetz_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 86,
+      "name": "Leshen",
+      "description": "We never hunt in these woods. Not even if it means the whole village starves.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Heroes",
+      "row": "Ranged combat",
+      "strength": 10,
+      "ability": "Hero"
+    },
+    "img": {
+      "art": "86_Leshen.webp",
+      "faction": "86_Leshen_Faction.webp",
+      "description": "86_Leshen_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 87,
+      "name": "Letho of Gulet",
+      "description": "Witchers never die in their beds.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Heroes",
+      "row": "Close combat",
+      "strength": 10,
+      "ability": "Hero"
+    },
+    "img": {
+      "art": "87_LethoOfGulet.webp",
+      "faction": "87_LethoOfGulet_Faction.webp",
+      "description": "87_LethoOfGulet_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 88.0,
+      "name": "Mahakaman Defender",
+      "description": "I'm telling ye, we're born fer battle – we slash straight at their knees!",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 5,
+      "ability": "Muster"
+    },
+    "img": {
+      "art": "88.0_MahakamanDefender.webp",
+      "faction": "88.0_MahakamanDefender_Faction.webp",
+      "description": "88.0_MahakamanDefender_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 88.1,
+      "name": "Mahakaman Defender",
+      "description": "I'm telling ye, we're born fer battle – we slash straight at their knees!",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 5,
+      "ability": "Muster"
+    },
+    "img": {
+      "art": "88.1_MahakamanDefender.webp",
+      "faction": "88.1_MahakamanDefender_Faction.webp",
+      "description": "88.1_MahakamanDefender_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 88.2,
+      "name": "Mahakaman Defender",
+      "description": "I'm telling ye, we're born fer battle – we slash straight at their knees!",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 5,
+      "ability": "Muster"
+    },
+    "img": {
+      "art": "88.2_MahakamanDefender.webp",
+      "faction": "88.2_MahakamanDefender_Faction.webp",
+      "description": "88.2_MahakamanDefender_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 88.3,
+      "name": "Mahakaman Defender",
+      "description": "I'm telling ye, we're born fer battle – we slash straight at their knees!",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 5,
+      "ability": "Muster"
+    },
+    "img": {
+      "art": "88.3_MahakamanDefender.webp",
+      "faction": "88.3_MahakamanDefender_Faction.webp",
+      "description": "88.3_MahakamanDefender_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 88.4,
+      "name": "Mahakaman Defender",
+      "description": "I'm telling ye, we're born fer battle – we slash straight at their knees!",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 5,
+      "ability": "Muster"
+    },
+    "img": {
+      "art": "88.4_MahakamanDefender.webp",
+      "faction": "88.4_MahakamanDefender_Faction.webp",
+      "description": "88.4_MahakamanDefender_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 89,
+      "name": "Menno Coehoorn",
+      "description": "I'll take an attentive reconnaissance unit over a fine cavalry brigade any day.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Heroes",
+      "row": "Close combat",
+      "strength": 10,
+      "ability": ["Hero", "Medic"]
+    },
+    "img": {
+      "art": "89_MennoCoehoorn.webp",
+      "faction": "89_MennoCoehoorn_Faction.webp",
+      "description": "89_MennoCoehoorn_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 90,
+      "name": "Milva",
+      "description": "With each arrow I loose, I think of my da. He's be proud. I think.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 10,
+      "ability": "Morale boost"
+    },
+    "img": {
+      "art": "90_Milva.webp",
+      "faction": "90_Milva_Faction.webp",
+      "description": "90_Milva_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 91,
+      "name": "Morteisen",
+      "description": "No Nordling pikemen or dwarven spearbearers can hope to best trained cavalry.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 3,
+      "ability": ""
+    },
+    "img": {
+      "art": "91_Morteisen.webp",
+      "faction": "91_Morteisen_Faction.webp",
+      "description": "91_Morteisen_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 92,
+      "name": "Morvran Voorhis",
+      "description": "Summer sun reflecting in the quiet waters of the Alba – that's Nilfgaard to me.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Heroes",
+      "row": "Siege",
+      "strength": 10,
+      "ability": "Hero"
+    },
+    "img": {
+      "art": "92_MorvranVoorhis.webp",
+      "faction": "92_MorvranVoorhis_Faction.webp",
+      "description": "92_MorvranVoorhis_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 93,
+      "name": "Mysterious Elf",
+      "description": "You humans have...unusual tastes.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Neutral",
+      "type": "Heroes",
+      "row": "Close combat",
+      "strength": 0,
+      "ability": ["Hero", "Spy"]
+    },
+    "img": {
+      "art": "93_MysteriousElf.webp",
+      "faction": "93_MysteriousElf_Faction.webp",
+      "description": "93_MysteriousElf_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 94,
+      "name": "Nausicaa Cavalry Rider",
+      "description": "The Emperor will teach the North discipline.",
+      "duplicateCount": 3
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 2,
+      "ability": "Tight bond"
+    },
+    "img": {
+      "art": "94_NausicaaCavalryRider.webp",
+      "faction": "94_NausicaaCavalryRider_Faction.webp",
+      "description": "94_NausicaaCavalryRider_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 95.0,
+      "name": "Nekker",
+      "description": "Damn things are almost cute, if you ignore the whole vicious killer aspect.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 2,
+      "ability": "Muster"
+    },
+    "img": {
+      "art": "95.0_Nekker.webp",
+      "faction": "95.0_Nekker_Faction.webp",
+      "description": "95.0_Nekker_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 95.1,
+      "name": "Nekker",
+      "description": "Damn things are almost cute, if you ignore the whole vicious killer aspect.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 2,
+      "ability": "Muster"
+    },
+    "img": {
+      "art": "95.1_Nekker.webp",
+      "faction": "95.1_Nekker_Faction.webp",
+      "description": "95.1_Nekker_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 95.2,
+      "name": "Nekker",
+      "description": "Damn things are almost cute, if you ignore the whole vicious killer aspect.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 2,
+      "ability": "Muster"
+    },
+    "img": {
+      "art": "95.2_Nekker.webp",
+      "faction": "95.2_Nekker_Faction.webp",
+      "description": "95.2_Nekker_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 96,
+      "name": "Philippa Eilhart",
+      "description": "Soon the power of kings will wither, and the Lodge shall seize its rightful place.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Heroes",
+      "row": "Ranged combat",
+      "strength": 10,
+      "ability": "Hero"
+    },
+    "img": {
+      "art": "96_PhilippaEilhart.webp",
+      "faction": "96_PhilippaEilhart_Faction.webp",
+      "description": "96_PhilippaEilhart_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 97,
+      "name": "Plague Maiden",
+      "description": "The sick rave about a boil-pocked woman surrounded by herds of rabid rats...",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 5,
+      "ability": ""
+    },
+    "img": {
+      "art": "97_PlagueMaiden.webp",
+      "faction": "97_PlagueMaiden_Faction.webp",
+      "description": "97_PlagueMaiden_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 98,
+      "name": "Poor Fucking Infantry",
+      "description": "I's a war veteran! ... spare me a crown?",
+      "duplicateCount": 4
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 1,
+      "ability": "Tight bond"
+    },
+    "img": {
+      "art": "98_PoorFuckingInfantry.webp",
+      "faction": "98_PoorFuckingInfantry_Faction.webp",
+      "description": "98_PoorFuckingInfantry_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 99,
+      "name": "Prince Stennis",
+      "description": "He ploughin' wears golden armor. Golden. 'Course he's an arsehole.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 5,
+      "ability": "Spy"
+    },
+    "img": {
+      "art": "99_PrinceStennis.webp",
+      "faction": "99_PrinceStennis_Faction.webp",
+      "description": "99_PrinceStennis_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 100,
+      "name": "Puttkammer",
+      "description": "Learned a lot at Braibant Military Academy. How to scrub potatoes, for instance.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 3,
+      "ability": ""
+    },
+    "img": {
+      "art": "100_Puttkammer.webp",
+      "faction": "100_Puttkammer_Faction.webp",
+      "description": "100_Puttkammer_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Rainfarn",
+      "description": "You'll die as painfully as that pathetic traitor Windhalm did.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 4,
+      "ability": ""
+    },
+    "img": {
+      "art": "101_Rainfarn.webp",
+      "faction": "101_Rainfarn_Faction.webp",
+      "description": "101_Rainfarn_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 102.0,
+      "name": "Redanian Foot Soldier",
+      "description": "I've bled for Redania! I've killed for Redania.. Dammit, I've even raped for Redania!",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 1,
+      "ability": ""
+    },
+    "img": {
+      "art": "102.0_RedanianFootSoldier.webp",
+      "faction": "102.0_RedanianFootSoldier_Faction.webp",
+      "description": "102.0_RedanianFootSoldier_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 102.1,
+      "name": "Redanian Foot Soldier",
+      "description": "I've bled for Redania! I've killed for Redania.. Dammit, I've even raped for Redania!",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 1,
+      "ability": ""
+    },
+    "img": {
+      "art": "102.1_RedanianFootSoldier.webp",
+      "faction": "102.1_RedanianFootSoldier_Faction.webp",
+      "description": "102.1_RedanianFootSoldier_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "Renuald aep Matsen",
+      "description": "They say the Impera fear nothing. Untrue. Renuald scares them shitless.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 5,
+      "ability": ""
+    },
+    "img": {
+      "art": "103_RenualdMatsen.webp",
+      "faction": "103_RenualdMatsen_Faction.webp",
+      "description": "103_RenualdMatsen_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 104,
+      "name": "Riordain",
+      "description": "Stare into their eyes, feast on their terror. Then go in for the kill.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 1,
+      "ability": ""
+    },
+    "img": {
+      "art": "104_Riordain.webp",
+      "faction": "104_Riordain_Faction.webp",
+      "description": "104_Riordain_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 105,
+      "name": "Rotten Mangonel",
+      "description": "The rotten smell brings back childhood memories.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Siege",
+      "strength": 3,
+      "ability": ""
+    },
+    "img": {
+      "art": "105_RottenMangonel.webp",
+      "faction": "105_RottenMangonel_Faction.webp",
+      "description": "105_RottenMangonel_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 106,
+      "name": "Sabrina Glevissig",
+      "description": "Daughter of the Kaedweni Wilderness.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 4,
+      "ability": ""
+    },
+    "img": {
+      "art": "106_SabrinaGlevissig.webp",
+      "faction": "106_SabrinaGlevissig_Faction.webp",
+      "description": "106_SabrinaGlevissig_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 107,
+      "name": "Saesenthessis",
+      "description": "Beautiful, pure, fierce - the perfect icon for a rebellion.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Heroes",
+      "row": "Ranged combat",
+      "strength": 10,
+      "ability": "Hero"
+    },
+    "img": {
+      "art": "107_Saesenthessis.webp",
+      "faction": "107_Saesenthessis_Faction.webp",
+      "description": "107_Saesenthessis_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 108,
+      "name": "Scorch",
+      "description": "Pillars of flame turn the mightiest to ash. All other tremble in shock and awe.",
+      "duplicateCount": 3
+    },
+    "attributes": {
+      "deck": "Neutral",
+      "type": "Special",
+      "row": "",
+      "strength": "",
+      "ability": "Discard after playing. Kills the strongest card(s) on the battlefield."
+    },
+    "img": {
+      "art": "108_Scorch.webp",
+      "faction": "108_Scorch_Faction.webp",
+      "description": "108_Scorch_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 109,
+      "name": "Sheldon Skaggs",
+      "description": "I was there, on the front lines! Right where the fightin' was thickest!",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 4,
+      "ability": ""
+    },
+    "img": {
+      "art": "109_SheldonSkaggs.webp",
+      "faction": "109_SheldonSkaggs_Faction.webp",
+      "description": "109_SheldonSkaggs_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 110,
+      "name": "Shilard Fitz-Oesterlen",
+      "description": "Warfare is mere sound and fury – diplomacy is what truly shapes history.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 7,
+      "ability": "Spy"
+    },
+    "img": {
+      "art": "110_ShilardFitz-Oesterlen.webp",
+      "faction": "110_ShilardFitz-Oesterlen_Faction.webp",
+      "description": "110_ShilardFitz-Oesterlen_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 111,
+      "name": "Siege Engineer",
+      "description": "Wielded correctly, a protractor can be a deadly weapon.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Siege",
+      "strength": 6,
+      "ability": ""
+    },
+    "img": {
+      "art": "111_SiegeEngineer.webp",
+      "faction": "111_SiegeEngineer_Faction.webp",
+      "description": "111_SiegeEngineer_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 112,
+      "name": "Siege Technician",
+      "description": "I never miss twice.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Siege",
+      "strength": 0,
+      "ability": "Medic"
+    },
+    "img": {
+      "art": "112_SiegeTechnician.webp",
+      "faction": "112_SiegeTechnician_Faction.webp",
+      "description": "112_SiegeTechnician_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 113,
+      "name": "Siege Tower",
+      "description": "I love the clamor of siege towers in the morning. Sounds like victory.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Units",
+      "row": "Siege",
+      "strength": 6,
+      "ability": ""
+    },
+    "img": {
+      "art": "113_SiegeTower.webp",
+      "faction": "113_SiegeTower_Faction.webp",
+      "description": "113_SiegeTower_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 114,
+      "name": "Siegfried of Denesle",
+      "description": "We're on the same side, witcher. You'll realize this one day.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 5,
+      "ability": ""
+    },
+    "img": {
+      "art": "114_SiegfriedOfDenesle.webp",
+      "faction": "114_SiegfriedOfDenesle_Faction.webp",
+      "description": "114_SiegfriedOfDenesle_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 115,
+      "name": "Sigismund Dijkstra",
+      "description": "Gwent's like politics, just more honest.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 4,
+      "ability": "Spy"
+    },
+    "img": {
+      "art": "115_SigismundDijkstra.webp",
+      "faction": "115_SigismundDijkstra_Faction.webp",
+      "description": "115_SigismundDijkstra_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 116,
+      "name": "Síle de Tansarville",
+      "description": "The Lodge lacks humility. Our lust for power may yet be our undoing.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 5,
+      "ability": ""
+    },
+    "img": {
+      "art": "116_SileDeTansarville.webp",
+      "faction": "116_SileDeTansarville_Faction.webp",
+      "description": "116_SileDeTansarville_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Stefan Skellen",
+      "description": "My mark scars the face of our future empress. That is my proudest achievement.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 9,
+      "ability": "Spy"
+    },
+    "img": {
+      "art": "117_StefanSkellen.webp",
+      "faction": "117_StefanSkellen_Faction.webp",
+      "description": "117_StefanSkellen_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Sweers",
+      "description": "And hands off the girl! Whatever we may be, we're not savages.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 2,
+      "ability": ""
+    },
+    "img": {
+      "art": "118_Sweers.webp",
+      "faction": "118_Sweers_Faction.webp",
+      "description": "118_Sweers_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thaler",
+      "description": "Fuck off! We aren't all ploughin' philanderers. Some of us have depth...",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Units",
+      "row": "Siege",
+      "strength": 1,
+      "ability": "Spy"
+    },
+    "img": {
+      "art": "119_Thaler.webp",
+      "faction": "119_Thaler_Faction.webp",
+      "description": "119_Thaler_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 120,
+      "name": "Tibor Eggebracht",
+      "description": "Albaaaa! Forward!! Alba! Long live the Emperor!",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Heroes",
+      "row": "Ranged combat",
+      "strength": 10,
+      "ability": "Hero"
+    },
+    "img": {
+      "art": "120_TiborEggebracht.webp",
+      "faction": "120_TiborEggebracht_Faction.webp",
+      "description": "120_TiborEggebracht_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 121,
+      "name": "Torrential Rain",
+      "description": "Even the rain in this land smells like piss.",
+      "duplicateCount": 3
+    },
+    "attributes": {
+      "deck": "Neutral",
+      "type": "Weather",
+      "row": "",
+      "strength": "",
+      "ability": "Reduces the Strength of all Range and Siege Units to 1."
+    },
+    "img": {
+      "art": "121_TorrentialRain.webp",
+      "faction": "121_TorrentialRain_Faction.webp",
+      "description": "121_TorrentialRain_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 122,
+      "name": "Toruviel",
+      "description": "I'd gladly kill you from up close, stare in your eyes... But you reek, human.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 2,
+      "ability": ""
+    },
+    "img": {
+      "art": "122_Toruviel.webp",
+      "faction": "122_Toruviel_Faction.webp",
+      "description": "122_Toruviel_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 123.0,
+      "name": "Trebuchet",
+      "description": "Castle won't batter itself down, now will it? Get them trebuchets rollin'!",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Units",
+      "row": "Siege",
+      "strength": 6,
+      "ability": ""
+    },
+    "img": {
+      "art": "123.0_Trebuchet.webp",
+      "faction": "123.0_Trebuchet_Faction.webp",
+      "description": "123.0_Trebuchet_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 123.1,
+      "name": "Trebuchet",
+      "description": "Castle won't batter itself down, now will it? Get them trebuchets rollin'!",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Units",
+      "row": "Siege",
+      "strength": 6,
+      "ability": ""
+    },
+    "img": {
+      "art": "123.1_Trebuchet.webp",
+      "faction": "123.1_Trebuchet_Faction.webp",
+      "description": "123.1_Trebuchet_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 124,
+      "name": "Triss Merigold",
+      "description": "I can take care of myself. Trust me.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Neutral",
+      "type": "Heroes",
+      "row": "Close combat",
+      "strength": 7,
+      "ability": "Hero"
+    },
+    "img": {
+      "art": "124_TrissMerigold.webp",
+      "faction": "124_TrissMerigold_Faction.webp",
+      "description": "124_TrissMerigold_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 125,
+      "name": "Vampire: Bruxa",
+      "description": "A vile, bloodthirsty, man-eating hag. Kind of like my mother-in-law.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 4,
+      "ability": "Muster"
+    },
+    "img": {
+      "art": "125_VampireBruxa.webp",
+      "faction": "125_VampireBruxa_Faction.webp",
+      "description": "125_VampireBruxa_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 126,
+      "name": "Vampire: Ekimmara",
+      "description": "Who would think overgrown bats would have a taste for gaudy jewelry?",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 4,
+      "ability": "Muster"
+    },
+    "img": {
+      "art": "126_VampireEkimmara.webp",
+      "faction": "126_VampireEkimmara_Faction.webp",
+      "description": "126_VampireEkimmara_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 127,
+      "name": "Vampire: Fleder",
+      "description": "Higher vampires embrace their victims. Fleders rip them to shreds.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 4,
+      "ability": "Muster"
+    },
+    "img": {
+      "art": "127_VampireFleder.webp",
+      "faction": "127_VampireFleder_Faction.webp",
+      "description": "127_VampireFleder_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 128,
+      "name": "Vampire: Garkain",
+      "description": "Blood-drinkers and corpse eaters so foul their very ugliness paralyses foes.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 4,
+      "ability": "Muster"
+    },
+    "img": {
+      "art": "128_VampireGarkain.webp",
+      "faction": "128_VampireGarkain_Faction.webp",
+      "description": "128_VampireGarkain_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 129,
+      "name": "Vampire: Katakan",
+      "description": "Drinking the blood of the Continent since the Conjunction.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 5,
+      "ability": "Muster"
+    },
+    "img": {
+      "art": "129_VampireKatakan.webp",
+      "faction": "129_VampireKatakan_Faction.webp",
+      "description": "129_VampireKatakan_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 130,
+      "name": "Vanhemar",
+      "description": "For a fire mage, he's not very... flamboyant.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 4,
+      "ability": ""
+    },
+    "img": {
+      "art": "130_Vanhemar.webp",
+      "faction": "130_Vanhemar_Faction.webp",
+      "description": "130_Vanhemar_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 131,
+      "name": "Vattier de Rideaux",
+      "description": "There's never been a problem a well-planned assassination couldn't solve.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 4,
+      "ability": "Spy"
+    },
+    "img": {
+      "art": "131_VattierDeRideaux.webp",
+      "faction": "131_VattierDeRideaux_Faction.webp",
+      "description": "131_VattierDeRideaux_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 132,
+      "name": "Vernon Roche",
+      "description": "A patriot... and a real son of a bitch.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Heroes",
+      "row": "Close combat",
+      "strength": 10,
+      "ability": "Hero"
+    },
+    "img": {
+      "art": "132_VernonRoche.webp",
+      "faction": "132_VernonRoche_Faction.webp",
+      "description": "132_VernonRoche_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 133,
+      "name": "Ves",
+      "description": "Better to live one day as a king than a whole life as a beggar.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 5,
+      "ability": ""
+    },
+    "img": {
+      "art": "133_Ves.webp",
+      "faction": "133_Ves_Faction.webp",
+      "description": "133_Ves_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 134,
+      "name": "Vesemir",
+      "description": "If you're to be hanged, ask for water. Anything can happen before they fetch it.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Neutral",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 6,
+      "ability": ""
+    },
+    "img": {
+      "art": "134_Vesemir.webp",
+      "faction": "134_Vesemir_Faction.webp",
+      "description": "134_Vesemir_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 135,
+      "name": "Villentretenmerth",
+      "description": "Also calls himself Borkh Three Jackdaws… he's not the best at names.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Neutral",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 7,
+      "ability": "Scorch close combat"
+    },
+    "img": {
+      "art": "135_Villentretenmerth.webp",
+      "faction": "135_Villentretenmerth_Faction.webp",
+      "description": "135_Villentretenmerth_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 136,
+      "name": "Vreemde",
+      "description": "Discipline is the Empire's deadliest weapon.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 2,
+      "ability": ""
+    },
+    "img": {
+      "art": "136_Vreemde.webp",
+      "faction": "136_Vreemde_Faction.webp",
+      "description": "136_Vreemde_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 137,
+      "name": "Vrihedd Brigade Recruit",
+      "description": "Hatred burns brighter than any fire, and cuts deeper than any blade.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 4,
+      "ability": ""
+    },
+    "img": {
+      "art": "137_VriheddBrigadeRecruit.webp",
+      "faction": "137_VriheddBrigadeRecruit_Faction.webp",
+      "description": "137_VriheddBrigadeRecruit_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 138.0,
+      "name": "Vrihedd Brigade Veteran",
+      "description": "\"Vrihedd? What's that mean?\" \"Trouble.\"",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": ["Close combat", "Ranged combat"],
+      "strength": 5,
+      "ability": "Agile"
+    },
+    "img": {
+      "art": "138.0_VriheddBrigadeVeteran.webp",
+      "faction": "138.0_VriheddBrigadeVeteran_Faction.webp",
+      "description": "138.0_VriheddBrigadeVeteran_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 138.1,
+      "name": "Vrihedd Brigade Veteran",
+      "description": "\"Vrihedd? What's that mean?\" \"Trouble.\"",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": ["Close combat", "Ranged combat"],
+      "strength": 5,
+      "ability": "Agile"
+    },
+    "img": {
+      "art": "138.1_VriheddBrigadeVeteran.webp",
+      "faction": "138.1_VriheddBrigadeVeteran_Faction.webp",
+      "description": "138.1_VriheddBrigadeVeteran_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 139,
+      "name": "Werewolf",
+      "description": "Wolves aren't as bad as they say. Werewolves, though – they're worse.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 5,
+      "ability": ""
+    },
+    "img": {
+      "art": "139_Werewolf.webp",
+      "faction": "139_Werewolf_Faction.webp",
+      "description": "139_Werewolf_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 140,
+      "name": "Wyvern",
+      "description": "Imagine a cross between a winged snake and a nightmare. Wyverns are worse.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Monsters",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 2,
+      "ability": ""
+    },
+    "img": {
+      "art": "140_Wyvern.webp",
+      "faction": "140_Wyvern_Faction.webp",
+      "description": "140_Wyvern_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 141,
+      "name": "Yaevinn",
+      "description": "We are the drops of rain that together make a ferocious storm.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Scoiatael",
+      "type": "Units",
+      "row": ["Close combat", "Ranged combat"],
+      "strength": 6,
+      "ability": "Agile"
+    },
+    "img": {
+      "art": "141_Yaevinn.webp",
+      "faction": "141_Yaevinn_Faction.webp",
+      "description": "141_Yaevinn_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 142,
+      "name": "Yarpen Zigrin",
+      "description": "The world belongs to whoever's best at crackin' skulls and impregnatin' lasses.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Northern Realms",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 1,
+      "ability": ""
+    },
+    "img": {
+      "art": "142_YarpenZigrin.webp",
+      "faction": "142_YarpenZigrin_Faction.webp",
+      "description": "142_YarpenZigrin_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 143,
+      "name": "Yennefer of Vengerberg",
+      "description": "Magic is Chaos, Art and Science. It's a curse, a blessing and a progression.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Neutral",
+      "type": "Heroes",
+      "row": "Ranged combat",
+      "strength": 7,
+      "ability": ["Hero", "Medic"]
+    },
+    "img": {
+      "art": "143_YenneferOfVengerberg.webp",
+      "faction": "143_YenneferOfVengerberg_Faction.webp",
+      "description": "143_YenneferOfVengerberg_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 144.0,
+      "name": "Young Emissary",
+      "description": "If I acquit myself well, perhaps next they'll post me somewhere civilized.",
+      "duplicateCount": 2
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 5,
+      "ability": "Tight bond"
+    },
+    "img": {
+      "art": "144.0_YoungEmissary.webp",
+      "faction": "144.0_YoungEmissary_Faction.webp",
+      "description": "144.0_YoungEmissary_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 144.1,
+      "name": "Young Emissary",
+      "description": "If I acquit myself well, perhaps next they'll post me somewhere civilized.",
+      "duplicateCount": 2
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 5,
+      "ability": "Tight bond"
+    },
+    "img": {
+      "art": "144.1_YoungEmissary.webp",
+      "faction": "144.1_YoungEmissary_Faction.webp",
+      "description": "144.1_YoungEmissary_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 145,
+      "name": "Zerrikanian Fire Scorpion",
+      "description": "The Zerrikanian Desert used to be a lush garden. Then these came along.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Siege",
+      "strength": 5,
+      "ability": ""
+    },
+    "img": {
+      "art": "145_ZerrikanianFireScorpion.webp",
+      "faction": "145_ZerrikanianFireScorpion_Faction.webp",
+      "description": "145_ZerrikanianFireScorpion_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 146,
+      "name": "Zoltan Chivay",
+      "description": "Life without old mates and booze is like a woman without a rump.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Neutral",
+      "type": "Units",
+      "row": "Close combat",
+      "strength": 5,
+      "ability": ""
+    },
+    "img": {
+      "art": "146_ZoltanChivay.webp",
+      "faction": "146_ZoltanChivay_Faction.webp",
+      "description": "146_ZoltanChivay_Description.png"
+    }
+  }
+]
