@@ -1,0 +1,10 @@
+Info cards:
+
+From 0 to 146
+
+Divided in:
+- In-game cards (0_Albrich): 174
+- Faction cards (0_Albrich_Faction): 154
+- Description cards (0_Albrich_Description): 174
+
+TOT cards: 502
