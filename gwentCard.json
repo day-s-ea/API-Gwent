@@ -201,10 +201,10 @@
   },
   {
     "data": {
-      "id": 7,
+      "id": 7.0,
       "name": "Black Infantry Archer",
       "description": "I aim for the knee. Always.",
-      "duplicateCount": 3
+      "duplicateCount": 1
     },
     "attributes": {
       "deck": "Nilfgaardian Empire",
@@ -214,9 +214,29 @@
       "ability": ""
     },
     "img": {
-      "background": "7_BlackInfantryArcher.webp",
-      "faction": "7_BlackInfantryArcher_Faction.webp",
-      "description": "7_BlackInfantryArcher_Description.png"
+      "background": "7.0_BlackInfantryArcher.webp",
+      "faction": "7.0_BlackInfantryArcher_Faction.webp",
+      "description": "7.0_BlackInfantryArcher_Description.png"
+    }
+  },
+  {
+    "data": {
+      "id": 7.1,
+      "name": "Black Infantry Archer",
+      "description": "I aim for the knee. Always.",
+      "duplicateCount": 1
+    },
+    "attributes": {
+      "deck": "Nilfgaardian Empire",
+      "type": "Units",
+      "row": "Ranged combat",
+      "strength": 10,
+      "ability": ""
+    },
+    "img": {
+      "background": "7.1_BlackInfantryArcher.webp",
+      "faction": "7.1_BlackInfantryArcher_Faction.webp",
+      "description": "7.1_BlackInfantryArcher_Description.png"
     }
   },
   {
@@ -3384,7 +3404,7 @@
       "id": 144.0,
       "name": "Young Emissary",
       "description": "If I acquit myself well, perhaps next they'll post me somewhere civilized.",
-      "duplicateCount": 2
+      "duplicateCount": 1
     },
     "attributes": {
       "deck": "Nilfgaardian Empire",
@@ -3404,7 +3424,7 @@
       "id": 144.1,
       "name": "Young Emissary",
       "description": "If I acquit myself well, perhaps next they'll post me somewhere civilized.",
-      "duplicateCount": 2
+      "duplicateCount": 1
     },
     "attributes": {
       "deck": "Nilfgaardian Empire",
