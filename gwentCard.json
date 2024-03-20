@@ -14,7 +14,7 @@
       "ability": ""
     },
     "img": {
-      "art": "0_Albrich.webp",
+      "background": "0_Albrich.webp",
       "faction": "0_Albrich_Faction.webp",
       "description": "0_Albrich_Description.png"
     }
@@ -34,7 +34,7 @@
       "ability": "Muster"
     },
     "img": {
-      "art": "1.0_Arachas.webp",
+      "background": "1.0_Arachas.webp",
       "faction": "1.0_Arachas_Faction.webp",
       "description": "1.0_Arachas_Description.png"
     }
@@ -1834,7 +1834,7 @@
       "ability": ""
     },
     "img": {
-      "art": "74_HeavyFireScorpion.webp",
+      "background": "74_HeavyFireScorpion.webp",
       "faction": "74_HeavyFireScorpion_Faction.webp",
       "description": "74_HeavyFireScorpion_Description.png"
     }
@@ -1854,7 +1854,7 @@
       "ability": ""
     },
     "img": {
-      "art": "75_IceGiant.webp",
+      "background": "75_IceGiant.webp",
       "faction": "75_IceGiant_Faction.webp",
       "description": "75_IceGiant_Description.png"
     }
@@ -1874,7 +1874,7 @@
       "ability": ""
     },
     "img": {
-      "art": "76_IdaEmeanSivney.webp",
+      "background": "76_IdaEmeanSivney.webp",
       "faction": "76_IdaEmeanSivney_Faction.webp",
       "description": "76_IdaEmeanSivney_Description.png"
     }
@@ -1894,7 +1894,7 @@
       "ability": "Hero"
     },
     "img": {
-      "art": "77_Imlerith.webp",
+      "background": "77_Imlerith.webp",
       "faction": "77_Imlerith_Faction.webp",
       "description": "77_Imlerith_Description.png"
     }
@@ -1914,7 +1914,7 @@
       "ability": "Sets all Ranged combat units to strength 1 for both players."
     },
     "img": {
-      "art": "78_ImpenetrableFog.webp",
+      "background": "78_ImpenetrableFog.webp",
       "faction": "78_ImpenetrableFog_Faction.webp",
       "description": "78_ImpenetrableFog_Description.png"
     }
@@ -1934,7 +1934,7 @@
       "ability": "Tight bond"
     },
     "img": {
-      "art": "79_ImperaBrigadeGuard.webp",
+      "background": "79_ImperaBrigadeGuard.webp",
       "faction": "79_ImperaBrigadeGuard_Faction.webp",
       "description": "79_ImperaBrigadeGuard_Description.png"
     }
@@ -1954,7 +1954,7 @@
       "ability": "Hero"
     },
     "img": {
-      "art": "80_Iorveth.webp",
+      "background": "80_Iorveth.webp",
       "faction": "80_Iorveth_Faction.webp",
       "description": "80_Iorveth_Description.png"
     }
@@ -1974,7 +1974,7 @@
       "ability": ["Hero", "Morale boost"]
     },
     "img": {
-      "art": "81_IsengrimFaoiltiarna.webp",
+      "background": "81_IsengrimFaoiltiarna.webp",
       "faction": "81_IsengrimFaoiltiarna_Faction.webp",
       "description": "81_IsengrimFaoiltiarna_Description.png"
     }
@@ -1994,7 +1994,7 @@
       "ability": "Hero"
     },
     "img": {
-      "art": "82_JohnNatalis.webp",
+      "background": "82_JohnNatalis.webp",
       "faction": "82_JohnNatalis_Faction.webp",
       "description": "82_JohnNatalis_Description.png"
     }
@@ -2014,7 +2014,7 @@
       "ability": "Morale boost"
     },
     "img": {
-      "art": "83_KaedweniSiegeExpert.webp",
+      "background": "83_KaedweniSiegeExpert.webp",
       "faction": "83_KaedweniSiegeExpert_Faction.webp",
       "description": "83_KaedweniSiegeExpert_Description.png"
     }
@@ -2034,7 +2034,7 @@
       "ability": ["Hero", "Agile", "Morale boost"]
     },
     "img": {
-      "art": "84_Kayran.webp",
+      "background": "84_Kayran.webp",
       "faction": "84_Kayran_Faction.webp",
       "description": "84_Kayran_Description.png"
     }
@@ -2054,7 +2054,7 @@
       "ability": ""
     },
     "img": {
-      "art": "85_KeiraMetz.webp",
+      "background": "85_KeiraMetz.webp",
       "faction": "85_KeiraMetz_Faction.webp",
       "description": "85_KeiraMetz_Description.png"
     }
@@ -2074,7 +2074,7 @@
       "ability": "Hero"
     },
     "img": {
-      "art": "86_Leshen.webp",
+      "background": "86_Leshen.webp",
       "faction": "86_Leshen_Faction.webp",
       "description": "86_Leshen_Description.png"
     }
@@ -2094,7 +2094,7 @@
       "ability": "Hero"
     },
     "img": {
-      "art": "87_LethoOfGulet.webp",
+      "background": "87_LethoOfGulet.webp",
       "faction": "87_LethoOfGulet_Faction.webp",
       "description": "87_LethoOfGulet_Description.png"
     }
@@ -2114,7 +2114,7 @@
       "ability": "Muster"
     },
     "img": {
-      "art": "88.0_MahakamanDefender.webp",
+      "background": "88.0_MahakamanDefender.webp",
       "faction": "88.0_MahakamanDefender_Faction.webp",
       "description": "88.0_MahakamanDefender_Description.png"
     }
@@ -2134,7 +2134,7 @@
       "ability": "Muster"
     },
     "img": {
-      "art": "88.1_MahakamanDefender.webp",
+      "background": "88.1_MahakamanDefender.webp",
       "faction": "88.1_MahakamanDefender_Faction.webp",
       "description": "88.1_MahakamanDefender_Description.png"
     }
@@ -2154,7 +2154,7 @@
       "ability": "Muster"
     },
     "img": {
-      "art": "88.2_MahakamanDefender.webp",
+      "background": "88.2_MahakamanDefender.webp",
       "faction": "88.2_MahakamanDefender_Faction.webp",
       "description": "88.2_MahakamanDefender_Description.png"
     }
@@ -2174,7 +2174,7 @@
       "ability": "Muster"
     },
     "img": {
-      "art": "88.3_MahakamanDefender.webp",
+      "background": "88.3_MahakamanDefender.webp",
       "faction": "88.3_MahakamanDefender_Faction.webp",
       "description": "88.3_MahakamanDefender_Description.png"
     }
@@ -2194,7 +2194,7 @@
       "ability": "Muster"
     },
     "img": {
-      "art": "88.4_MahakamanDefender.webp",
+      "background": "88.4_MahakamanDefender.webp",
       "faction": "88.4_MahakamanDefender_Faction.webp",
       "description": "88.4_MahakamanDefender_Description.png"
     }
@@ -2214,7 +2214,7 @@
       "ability": ["Hero", "Medic"]
     },
     "img": {
-      "art": "89_MennoCoehoorn.webp",
+      "background": "89_MennoCoehoorn.webp",
       "faction": "89_MennoCoehoorn_Faction.webp",
       "description": "89_MennoCoehoorn_Description.png"
     }
@@ -2234,7 +2234,7 @@
       "ability": "Morale boost"
     },
     "img": {
-      "art": "90_Milva.webp",
+      "background": "90_Milva.webp",
       "faction": "90_Milva_Faction.webp",
       "description": "90_Milva_Description.png"
     }
@@ -2254,7 +2254,7 @@
       "ability": ""
     },
     "img": {
-      "art": "91_Morteisen.webp",
+      "background": "91_Morteisen.webp",
       "faction": "91_Morteisen_Faction.webp",
       "description": "91_Morteisen_Description.png"
     }
@@ -2274,7 +2274,7 @@
       "ability": "Hero"
     },
     "img": {
-      "art": "92_MorvranVoorhis.webp",
+      "background": "92_MorvranVoorhis.webp",
       "faction": "92_MorvranVoorhis_Faction.webp",
       "description": "92_MorvranVoorhis_Description.png"
     }
@@ -2294,7 +2294,7 @@
       "ability": ["Hero", "Spy"]
     },
     "img": {
-      "art": "93_MysteriousElf.webp",
+      "background": "93_MysteriousElf.webp",
       "faction": "93_MysteriousElf_Faction.webp",
       "description": "93_MysteriousElf_Description.png"
     }
@@ -2314,7 +2314,7 @@
       "ability": "Tight bond"
     },
     "img": {
-      "art": "94_NausicaaCavalryRider.webp",
+      "background": "94_NausicaaCavalryRider.webp",
       "faction": "94_NausicaaCavalryRider_Faction.webp",
       "description": "94_NausicaaCavalryRider_Description.png"
     }
@@ -2334,7 +2334,7 @@
       "ability": "Muster"
     },
     "img": {
-      "art": "95.0_Nekker.webp",
+      "background": "95.0_Nekker.webp",
       "faction": "95.0_Nekker_Faction.webp",
       "description": "95.0_Nekker_Description.png"
     }
@@ -2354,7 +2354,7 @@
       "ability": "Muster"
     },
     "img": {
-      "art": "95.1_Nekker.webp",
+      "background": "95.1_Nekker.webp",
       "faction": "95.1_Nekker_Faction.webp",
       "description": "95.1_Nekker_Description.png"
     }
@@ -2374,7 +2374,7 @@
       "ability": "Muster"
     },
     "img": {
-      "art": "95.2_Nekker.webp",
+      "background": "95.2_Nekker.webp",
       "faction": "95.2_Nekker_Faction.webp",
       "description": "95.2_Nekker_Description.png"
     }
@@ -2394,7 +2394,7 @@
       "ability": "Hero"
     },
     "img": {
-      "art": "96_PhilippaEilhart.webp",
+      "background": "96_PhilippaEilhart.webp",
       "faction": "96_PhilippaEilhart_Faction.webp",
       "description": "96_PhilippaEilhart_Description.png"
     }
@@ -2414,7 +2414,7 @@
       "ability": ""
     },
     "img": {
-      "art": "97_PlagueMaiden.webp",
+      "background": "97_PlagueMaiden.webp",
       "faction": "97_PlagueMaiden_Faction.webp",
       "description": "97_PlagueMaiden_Description.png"
     }
@@ -2434,7 +2434,7 @@
       "ability": "Tight bond"
     },
     "img": {
-      "art": "98_PoorFuckingInfantry.webp",
+      "background": "98_PoorFuckingInfantry.webp",
       "faction": "98_PoorFuckingInfantry_Faction.webp",
       "description": "98_PoorFuckingInfantry_Description.png"
     }
@@ -2454,7 +2454,7 @@
       "ability": "Spy"
     },
     "img": {
-      "art": "99_PrinceStennis.webp",
+      "background": "99_PrinceStennis.webp",
       "faction": "99_PrinceStennis_Faction.webp",
       "description": "99_PrinceStennis_Description.png"
     }
@@ -2474,7 +2474,7 @@
       "ability": ""
     },
     "img": {
-      "art": "100_Puttkammer.webp",
+      "background": "100_Puttkammer.webp",
       "faction": "100_Puttkammer_Faction.webp",
       "description": "100_Puttkammer_Description.png"
     }
@@ -2494,7 +2494,7 @@
       "ability": ""
     },
     "img": {
-      "art": "101_Rainfarn.webp",
+      "background": "101_Rainfarn.webp",
       "faction": "101_Rainfarn_Faction.webp",
       "description": "101_Rainfarn_Description.png"
     }
@@ -2514,7 +2514,7 @@
       "ability": ""
     },
     "img": {
-      "art": "102.0_RedanianFootSoldier.webp",
+      "background": "102.0_RedanianFootSoldier.webp",
       "faction": "102.0_RedanianFootSoldier_Faction.webp",
       "description": "102.0_RedanianFootSoldier_Description.png"
     }
@@ -2534,7 +2534,7 @@
       "ability": ""
     },
     "img": {
-      "art": "102.1_RedanianFootSoldier.webp",
+      "background": "102.1_RedanianFootSoldier.webp",
       "faction": "102.1_RedanianFootSoldier_Faction.webp",
       "description": "102.1_RedanianFootSoldier_Description.png"
     }
@@ -2554,7 +2554,7 @@
       "ability": ""
     },
     "img": {
-      "art": "103_RenualdMatsen.webp",
+      "background": "103_RenualdMatsen.webp",
       "faction": "103_RenualdMatsen_Faction.webp",
       "description": "103_RenualdMatsen_Description.png"
     }
@@ -2574,7 +2574,7 @@
       "ability": ""
     },
     "img": {
-      "art": "104_Riordain.webp",
+      "background": "104_Riordain.webp",
       "faction": "104_Riordain_Faction.webp",
       "description": "104_Riordain_Description.png"
     }
@@ -2594,7 +2594,7 @@
       "ability": ""
     },
     "img": {
-      "art": "105_RottenMangonel.webp",
+      "background": "105_RottenMangonel.webp",
       "faction": "105_RottenMangonel_Faction.webp",
       "description": "105_RottenMangonel_Description.png"
     }
@@ -2614,7 +2614,7 @@
       "ability": ""
     },
     "img": {
-      "art": "106_SabrinaGlevissig.webp",
+      "background": "106_SabrinaGlevissig.webp",
       "faction": "106_SabrinaGlevissig_Faction.webp",
       "description": "106_SabrinaGlevissig_Description.png"
     }
@@ -2634,7 +2634,7 @@
       "ability": "Hero"
     },
     "img": {
-      "art": "107_Saesenthessis.webp",
+      "background": "107_Saesenthessis.webp",
       "faction": "107_Saesenthessis_Faction.webp",
       "description": "107_Saesenthessis_Description.png"
     }
@@ -2654,7 +2654,7 @@
       "ability": "Discard after playing. Kills the strongest card(s) on the battlefield."
     },
     "img": {
-      "art": "108_Scorch.webp",
+      "background": "108_Scorch.webp",
       "faction": "108_Scorch_Faction.webp",
       "description": "108_Scorch_Description.png"
     }
@@ -2674,7 +2674,7 @@
       "ability": ""
     },
     "img": {
-      "art": "109_SheldonSkaggs.webp",
+      "background": "109_SheldonSkaggs.webp",
       "faction": "109_SheldonSkaggs_Faction.webp",
       "description": "109_SheldonSkaggs_Description.png"
     }
@@ -2694,7 +2694,7 @@
       "ability": "Spy"
     },
     "img": {
-      "art": "110_ShilardFitz-Oesterlen.webp",
+      "background": "110_ShilardFitz-Oesterlen.webp",
       "faction": "110_ShilardFitz-Oesterlen_Faction.webp",
       "description": "110_ShilardFitz-Oesterlen_Description.png"
     }
@@ -2714,7 +2714,7 @@
       "ability": ""
     },
     "img": {
-      "art": "111_SiegeEngineer.webp",
+      "background": "111_SiegeEngineer.webp",
       "faction": "111_SiegeEngineer_Faction.webp",
       "description": "111_SiegeEngineer_Description.png"
     }
@@ -2734,7 +2734,7 @@
       "ability": "Medic"
     },
     "img": {
-      "art": "112_SiegeTechnician.webp",
+      "background": "112_SiegeTechnician.webp",
       "faction": "112_SiegeTechnician_Faction.webp",
       "description": "112_SiegeTechnician_Description.png"
     }
@@ -2754,7 +2754,7 @@
       "ability": ""
     },
     "img": {
-      "art": "113_SiegeTower.webp",
+      "background": "113_SiegeTower.webp",
       "faction": "113_SiegeTower_Faction.webp",
       "description": "113_SiegeTower_Description.png"
     }
@@ -2774,7 +2774,7 @@
       "ability": ""
     },
     "img": {
-      "art": "114_SiegfriedOfDenesle.webp",
+      "background": "114_SiegfriedOfDenesle.webp",
       "faction": "114_SiegfriedOfDenesle_Faction.webp",
       "description": "114_SiegfriedOfDenesle_Description.png"
     }
@@ -2794,7 +2794,7 @@
       "ability": "Spy"
     },
     "img": {
-      "art": "115_SigismundDijkstra.webp",
+      "background": "115_SigismundDijkstra.webp",
       "faction": "115_SigismundDijkstra_Faction.webp",
       "description": "115_SigismundDijkstra_Description.png"
     }
@@ -2814,7 +2814,7 @@
       "ability": ""
     },
     "img": {
-      "art": "116_SileDeTansarville.webp",
+      "background": "116_SileDeTansarville.webp",
       "faction": "116_SileDeTansarville_Faction.webp",
       "description": "116_SileDeTansarville_Description.png"
     }
@@ -2834,7 +2834,7 @@
       "ability": "Spy"
     },
     "img": {
-      "art": "117_StefanSkellen.webp",
+      "background": "117_StefanSkellen.webp",
       "faction": "117_StefanSkellen_Faction.webp",
       "description": "117_StefanSkellen_Description.png"
     }
@@ -2854,7 +2854,7 @@
       "ability": ""
     },
     "img": {
-      "art": "118_Sweers.webp",
+      "background": "118_Sweers.webp",
       "faction": "118_Sweers_Faction.webp",
       "description": "118_Sweers_Description.png"
     }
@@ -2874,7 +2874,7 @@
       "ability": "Spy"
     },
     "img": {
-      "art": "119_Thaler.webp",
+      "background": "119_Thaler.webp",
       "faction": "119_Thaler_Faction.webp",
       "description": "119_Thaler_Description.png"
     }
@@ -2894,7 +2894,7 @@
       "ability": "Hero"
     },
     "img": {
-      "art": "120_TiborEggebracht.webp",
+      "background": "120_TiborEggebracht.webp",
       "faction": "120_TiborEggebracht_Faction.webp",
       "description": "120_TiborEggebracht_Description.png"
     }
@@ -2914,7 +2914,7 @@
       "ability": "Reduces the Strength of all Range and Siege Units to 1."
     },
     "img": {
-      "art": "121_TorrentialRain.webp",
+      "background": "121_TorrentialRain.webp",
       "faction": "121_TorrentialRain_Faction.webp",
       "description": "121_TorrentialRain_Description.png"
     }
@@ -2934,7 +2934,7 @@
       "ability": ""
     },
     "img": {
-      "art": "122_Toruviel.webp",
+      "background": "122_Toruviel.webp",
       "faction": "122_Toruviel_Faction.webp",
       "description": "122_Toruviel_Description.png"
     }
@@ -2954,7 +2954,7 @@
       "ability": ""
     },
     "img": {
-      "art": "123.0_Trebuchet.webp",
+      "background": "123.0_Trebuchet.webp",
       "faction": "123.0_Trebuchet_Faction.webp",
       "description": "123.0_Trebuchet_Description.png"
     }
@@ -2974,7 +2974,7 @@
       "ability": ""
     },
     "img": {
-      "art": "123.1_Trebuchet.webp",
+      "background": "123.1_Trebuchet.webp",
       "faction": "123.1_Trebuchet_Faction.webp",
       "description": "123.1_Trebuchet_Description.png"
     }
@@ -2994,7 +2994,7 @@
       "ability": "Hero"
     },
     "img": {
-      "art": "124_TrissMerigold.webp",
+      "background": "124_TrissMerigold.webp",
       "faction": "124_TrissMerigold_Faction.webp",
       "description": "124_TrissMerigold_Description.png"
     }
@@ -3014,7 +3014,7 @@
       "ability": "Muster"
     },
     "img": {
-      "art": "125_VampireBruxa.webp",
+      "background": "125_VampireBruxa.webp",
       "faction": "125_VampireBruxa_Faction.webp",
       "description": "125_VampireBruxa_Description.png"
     }
@@ -3034,7 +3034,7 @@
       "ability": "Muster"
     },
     "img": {
-      "art": "126_VampireEkimmara.webp",
+      "background": "126_VampireEkimmara.webp",
       "faction": "126_VampireEkimmara_Faction.webp",
       "description": "126_VampireEkimmara_Description.png"
     }
@@ -3054,7 +3054,7 @@
       "ability": "Muster"
     },
     "img": {
-      "art": "127_VampireFleder.webp",
+      "background": "127_VampireFleder.webp",
       "faction": "127_VampireFleder_Faction.webp",
       "description": "127_VampireFleder_Description.png"
     }
@@ -3074,7 +3074,7 @@
       "ability": "Muster"
     },
     "img": {
-      "art": "128_VampireGarkain.webp",
+      "background": "128_VampireGarkain.webp",
       "faction": "128_VampireGarkain_Faction.webp",
       "description": "128_VampireGarkain_Description.png"
     }
@@ -3094,7 +3094,7 @@
       "ability": "Muster"
     },
     "img": {
-      "art": "129_VampireKatakan.webp",
+      "background": "129_VampireKatakan.webp",
       "faction": "129_VampireKatakan_Faction.webp",
       "description": "129_VampireKatakan_Description.png"
     }
@@ -3114,7 +3114,7 @@
       "ability": ""
     },
     "img": {
-      "art": "130_Vanhemar.webp",
+      "background": "130_Vanhemar.webp",
       "faction": "130_Vanhemar_Faction.webp",
       "description": "130_Vanhemar_Description.png"
     }
@@ -3134,7 +3134,7 @@
       "ability": "Spy"
     },
     "img": {
-      "art": "131_VattierDeRideaux.webp",
+      "background": "131_VattierDeRideaux.webp",
       "faction": "131_VattierDeRideaux_Faction.webp",
       "description": "131_VattierDeRideaux_Description.png"
     }
@@ -3154,7 +3154,7 @@
       "ability": "Hero"
     },
     "img": {
-      "art": "132_VernonRoche.webp",
+      "background": "132_VernonRoche.webp",
       "faction": "132_VernonRoche_Faction.webp",
       "description": "132_VernonRoche_Description.png"
     }
@@ -3174,7 +3174,7 @@
       "ability": ""
     },
     "img": {
-      "art": "133_Ves.webp",
+      "background": "133_Ves.webp",
       "faction": "133_Ves_Faction.webp",
       "description": "133_Ves_Description.png"
     }
@@ -3194,7 +3194,7 @@
       "ability": ""
     },
     "img": {
-      "art": "134_Vesemir.webp",
+      "background": "134_Vesemir.webp",
       "faction": "134_Vesemir_Faction.webp",
       "description": "134_Vesemir_Description.png"
     }
@@ -3214,7 +3214,7 @@
       "ability": "Scorch close combat"
     },
     "img": {
-      "art": "135_Villentretenmerth.webp",
+      "background": "135_Villentretenmerth.webp",
       "faction": "135_Villentretenmerth_Faction.webp",
       "description": "135_Villentretenmerth_Description.png"
     }
@@ -3234,7 +3234,7 @@
       "ability": ""
     },
     "img": {
-      "art": "136_Vreemde.webp",
+      "background": "136_Vreemde.webp",
       "faction": "136_Vreemde_Faction.webp",
       "description": "136_Vreemde_Description.png"
     }
@@ -3254,7 +3254,7 @@
       "ability": ""
     },
     "img": {
-      "art": "137_VriheddBrigadeRecruit.webp",
+      "background": "137_VriheddBrigadeRecruit.webp",
       "faction": "137_VriheddBrigadeRecruit_Faction.webp",
       "description": "137_VriheddBrigadeRecruit_Description.png"
     }
@@ -3274,7 +3274,7 @@
       "ability": "Agile"
     },
     "img": {
-      "art": "138.0_VriheddBrigadeVeteran.webp",
+      "background": "138.0_VriheddBrigadeVeteran.webp",
       "faction": "138.0_VriheddBrigadeVeteran_Faction.webp",
       "description": "138.0_VriheddBrigadeVeteran_Description.png"
     }
@@ -3294,7 +3294,7 @@
       "ability": "Agile"
     },
     "img": {
-      "art": "138.1_VriheddBrigadeVeteran.webp",
+      "background": "138.1_VriheddBrigadeVeteran.webp",
       "faction": "138.1_VriheddBrigadeVeteran_Faction.webp",
       "description": "138.1_VriheddBrigadeVeteran_Description.png"
     }
@@ -3314,7 +3314,7 @@
       "ability": ""
     },
     "img": {
-      "art": "139_Werewolf.webp",
+      "background": "139_Werewolf.webp",
       "faction": "139_Werewolf_Faction.webp",
       "description": "139_Werewolf_Description.png"
     }
@@ -3334,7 +3334,7 @@
       "ability": ""
     },
     "img": {
-      "art": "140_Wyvern.webp",
+      "background": "140_Wyvern.webp",
       "faction": "140_Wyvern_Faction.webp",
       "description": "140_Wyvern_Description.png"
     }
@@ -3354,7 +3354,7 @@
       "ability": "Agile"
     },
     "img": {
-      "art": "141_Yaevinn.webp",
+      "background": "141_Yaevinn.webp",
       "faction": "141_Yaevinn_Faction.webp",
       "description": "141_Yaevinn_Description.png"
     }
@@ -3374,7 +3374,7 @@
       "ability": ""
     },
     "img": {
-      "art": "142_YarpenZigrin.webp",
+      "background": "142_YarpenZigrin.webp",
       "faction": "142_YarpenZigrin_Faction.webp",
       "description": "142_YarpenZigrin_Description.png"
     }
@@ -3394,7 +3394,7 @@
       "ability": ["Hero", "Medic"]
     },
     "img": {
-      "art": "143_YenneferOfVengerberg.webp",
+      "background": "143_YenneferOfVengerberg.webp",
       "faction": "143_YenneferOfVengerberg_Faction.webp",
       "description": "143_YenneferOfVengerberg_Description.png"
     }
@@ -3414,7 +3414,7 @@
       "ability": "Tight bond"
     },
     "img": {
-      "art": "144.0_YoungEmissary.webp",
+      "background": "144.0_YoungEmissary.webp",
       "faction": "144.0_YoungEmissary_Faction.webp",
       "description": "144.0_YoungEmissary_Description.png"
     }
@@ -3434,7 +3434,7 @@
       "ability": "Tight bond"
     },
     "img": {
-      "art": "144.1_YoungEmissary.webp",
+      "background": "144.1_YoungEmissary.webp",
       "faction": "144.1_YoungEmissary_Faction.webp",
       "description": "144.1_YoungEmissary_Description.png"
     }
@@ -3454,7 +3454,7 @@
       "ability": ""
     },
     "img": {
-      "art": "145_ZerrikanianFireScorpion.webp",
+      "background": "145_ZerrikanianFireScorpion.webp",
       "faction": "145_ZerrikanianFireScorpion_Faction.webp",
       "description": "145_ZerrikanianFireScorpion_Description.png"
     }
@@ -3474,7 +3474,7 @@
       "ability": ""
     },
     "img": {
-      "art": "146_ZoltanChivay.webp",
+      "background": "146_ZoltanChivay.webp",
       "faction": "146_ZoltanChivay_Faction.webp",
       "description": "146_ZoltanChivay_Description.png"
     }
