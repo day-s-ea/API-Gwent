@@ -916,7 +916,7 @@
     "img": {
       "background": "35_EmhyrEmperorOfNilfgaard.webp",
       "faction": "",
-      "description": "35_EmhyrEmperorOfNilfgaard_Description.png"
+      "description": "35_EmhyrEmperorOfNilfgaard_Description.webp"
     }
   },
   {
@@ -936,7 +936,7 @@
     "img": {
       "background": "36_EmhyrHisImperialMajesty.webp",
       "faction": "",
-      "description": "36_EmhyrHisImperialMajesty_Description.png"
+      "description": "36_EmhyrHisImperialMajesty_Description.webp"
     }
   },
   {
@@ -956,7 +956,7 @@
     "img": {
       "background": "37_EmhyrInvaderOfTheNorth.webp",
       "faction": "",
-      "description": "37_EmhyrInvaderOfTheNorth_Description.png"
+      "description": "37_EmhyrInvaderOfTheNorth_Description.webp"
     }
   },
   {
@@ -976,7 +976,7 @@
     "img": {
       "background": "38_EmhyrTheRelentless.webp",
       "faction": "",
-      "description": "38_EmhyrTheRelentless_Description.png"
+      "description": "38_EmhyrTheRelentless_Description.webp"
     }
   },
   {
@@ -996,7 +996,7 @@
     "img": {
       "background": "39_EmhyrTheWhiteFlame.webp",
       "faction": "",
-      "description": "39_EmhyrTheWhiteFlame_Description.png"
+      "description": "39_EmhyrTheWhiteFlame_Description.webp"
     }
   },
   {
@@ -1056,7 +1056,7 @@
     "img": {
       "background": "42_EredinTheTreacherous.webp",
       "faction": "",
-      "description": "42_EredinTheTreacherous_Description.png"
+      "description": "42_EredinTheTreacherous_Description.webp"
     }
   },
   {
@@ -1076,7 +1076,7 @@
     "img": {
       "background": "43_EredinBringerOfDeath.webp",
       "faction": "",
-      "description": "43_EredinBringerOfDeath_Description.png"
+      "description": "43_EredinBringerOfDeath_Description.webp"
     }
   },
   {
@@ -1096,7 +1096,7 @@
     "img": {
       "background": "44_EredinCommanderOfTheRedRiders.webp",
       "faction": "",
-      "description": "44_EredinCommanderOfTheRedRiders_Description.png"
+      "description": "44_EredinCommanderOfTheRedRiders_Description.webp"
     }
   },
   {
@@ -1116,7 +1116,7 @@
     "img": {
       "background": "45_EredinDestroyerOfWorlds.webp",
       "faction": "",
-      "description": "45_EredinDestroyerOfWorlds_Description.png"
+      "description": "45_EredinDestroyerOfWorlds_Description.webp"
     }
   },
   {
@@ -1136,7 +1136,7 @@
     "img": {
       "background": "46_EredinKingOfTheWildHunt.webp",
       "faction": "",
-      "description": "46_EredinKingOfTheWildHunt_Description.png"
+      "description": "46_EredinKingOfTheWildHunt_Description.webp"
     }
   },
   {
@@ -1296,7 +1296,7 @@
     "img": {
       "background": "53_FoltestKingOfTemeria.webp",
       "faction": "",
-      "description": "53_FoltestKingOfTemeria_Description.png"
+      "description": "53_FoltestKingOfTemeria_Description.webp"
     }
   },
   {
@@ -1316,7 +1316,7 @@
     "img": {
       "background": "54_FoltestLordCommanderOfTheNorth.webp",
       "faction": "",
-      "description": "54_FoltestLordCommanderOfTheNorth_Description.png"
+      "description": "54_FoltestLordCommanderOfTheNorth_Description.webp"
     }
   },
   {
@@ -1336,7 +1336,7 @@
     "img": {
       "background": "55_FoltestSonOfMedell.webp",
       "faction": "",
-      "description": "55_FoltestSonOfMedell_Description.png"
+      "description": "55_FoltestSonOfMedell_Description.webp"
     }
   },
   {
@@ -1356,7 +1356,7 @@
     "img": {
       "background": "56_FoltestTheSiegemaster.webp",
       "faction": "",
-      "description": "56_FoltestTheSiegemaster_Description.png"
+      "description": "56_FoltestTheSiegemaster_Description.webp"
     }
   },
   {
@@ -1376,7 +1376,7 @@
     "img": {
       "background": "57_FoltestTheSteel-Forged.webp",
       "faction": "",
-      "description": "57_FoltestTheSteel-Forged_Description.png"
+      "description": "57_FoltestTheSteel-Forged_Description.webp"
     }
   },
   {
@@ -1416,7 +1416,7 @@
     "img": {
       "background": "59_FrancescaFindabairDaisyOfTheValley.webp",
       "faction": "",
-      "description": "59_FrancescaFindabairDaisyOfTheValley_Description.png"
+      "description": "59_FrancescaFindabairDaisyOfTheValley_Description.webp"
     }
   },
   {
@@ -1436,7 +1436,7 @@
     "img": {
       "background": "60_FrancescaFindabairHopeOfTheAenSeidhe.webp",
       "faction": "",
-      "description": "60_FrancescaFindabairHopeOfTheAenSeidhe_Description.png"
+      "description": "60_FrancescaFindabairHopeOfTheAenSeidhe_Description.webp"
     }
   },
   {
@@ -1456,7 +1456,7 @@
     "img": {
       "background": "61_FrancescaFindabairPurebloodElf.webp",
       "faction": "",
-      "description": "61_FrancescaFindabairPurebloodElf_Description.png"
+      "description": "61_FrancescaFindabairPurebloodElf_Description.webp"
     }
   },
   {
@@ -1476,7 +1476,7 @@
     "img": {
       "background": "62_FrancescaFindabairQueenOfDolBlathanna.webp",
       "faction": "",
-      "description": "62_FrancescaFindabairQueenOfDolBlathanna_Description.png"
+      "description": "62_FrancescaFindabairQueenOfDolBlathanna_Description.webp"
     }
   },
   {
@@ -1496,7 +1496,7 @@
     "img": {
       "background": "63_FrancescaFindabairTheBeautiful.webp",
       "faction": "",
-      "description": "63_FrancescaFindabairTheBeautiful_Description.png"
+      "description": "63_FrancescaFindabairTheBeautiful_Description.webp"
     }
   },
   {
